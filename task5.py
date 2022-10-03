@@ -6,7 +6,7 @@ import chardet
 
 print(locale.getpreferredencoding())
 
-# cp1251
+cp1251
 
 with open('test_file.txt', 'rb') as fl:
     s = fl.read()
